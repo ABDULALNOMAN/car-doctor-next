@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  max-width: 1440px;
+  margin-inline: auto;
+  background: #ffffff;
+  color: #000000;
+}
+
+@layer components {
+  .btn_primary{
+    @apply btn bg-[#FF3811] rounded-sm border-none hover:bg-[#FF3811] text-white
+  }
+  .main_color{
+    @apply text-[#FF3811] font-bold capitalize text-xl
+  }
+}
+.radialContainer{
+  z-index: 1;
+  position: absolute;
+  height: 100%;
+  width:100%;
+  opacity: 60%;
+  background-image: linear-gradient(to right, #000000, #0e0e0e, #171717, #1f1f20, #272728, #313133, #3b3c3e, #464749, #565759, #67686a, #78797b, #898a8c);
+}
+.about_background{
+  width: 80%;
+  height: 80%;
+  background-image: url(/images/about_us/person.jpg);
+  background-repeat: none;
+  background-size: cover;
+  background-position: left;
+}
+
+
