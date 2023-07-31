@@ -1,0 +1,22 @@
+[
+    {   "picture":"/images/testimonial/bohemian-man-with-his-arms-crossed.jpg",
+        "name":"Awlad Hossain",
+        "title":"Businessman",
+        "body":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. "
+    },
+    {   "picture":"/images/testimonial/optimistic-attractive-ginger-girl-20s-wearing-purple-sweater-standing-ready-energized-violer-background-smiling-friendly-confident-camera-showing-readiness-have-fun.jpg",
+        "name":"maria zakrova",
+        "title":"Businessman",
+        "body":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. "
+    },
+    {   "picture":"/images/testimonial/man-isolated-showing-emotions-end-gestures.jpg",
+        "name":"recherd wagner",
+        "title":"Businessman",
+        "body":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. "
+    },
+    {   "picture":"/images/testimonial/optimistic-attractive-ginger-girl-20s-wearing-purple-sweater-standing-ready-energized-violer-background-smiling-friendly-confident-camera-showing-readiness-have-fun.jpg",
+        "name":"cristina",
+        "title":"Businessman",
+        "body":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. "
+    }
+]

@@ -15,8 +15,14 @@
   .btn_primary{
     @apply btn bg-[#FF3811] rounded-sm border-none hover:bg-[#FF3811] text-white
   }
+  .btn_secondary{
+    @apply btn border-[#FF3811] border-2 rounded-sm  hover:border-[#FF3811] text-[#FF3811] hover:text-[#FF3811] bg-transparent hover:bg-transparent
+  }
   .main_color{
     @apply text-[#FF3811] font-bold capitalize text-xl
+  }
+  .component_heading{
+    @apply flex flex-col gap-y-3 lg:w-6/12 md:w-8/12 w-10/12 items-center mb-12 mx-auto text-center
   }
 }
 .radialContainer{

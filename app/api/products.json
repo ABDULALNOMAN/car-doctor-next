@@ -1,0 +1,38 @@
+[
+    {
+      "index": 0,
+      "picture": "/images/products/6.png",
+      "title": "Car Engine Plug",
+      "price": "$20.00"
+    },
+    {
+      "index": 1,
+      "picture":"/images/products/5.png",
+      "title": "Car Air Filter",
+      "price": "$20.00"
+    },
+    {
+      "index": 2,
+      "picture":"/images/products/4.png",
+      "title": "Cools Led Light",
+      "price": "$20.00"
+    },
+    {
+      "index": 3,
+      "picture":"/images/products/3.png",
+      "title": "Cools Led Light",
+      "price": "$20.00"
+    },
+    {
+      "index": 4,
+      "picture":"/images/products/2.png",
+      "title": "Cools Led Light",
+      "price": "$20.00"
+    },
+    {
+      "index": 5,
+      "picture": "/images/products/1.png",
+      "title": "Cools Led Light",
+      "price": "$20.00"
+    }
+  ]

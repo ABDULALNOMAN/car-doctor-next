@@ -16,7 +16,7 @@ const Navbar = () => {
   return (
     <div className="navbar bg-white text-black px-6 py-3">
         <div className="navbar-start">
-            <Link href={"/"}><Image src={logo} className='w-20 h-full'></Image></Link>
+            <Link href={"/"}><Image src={logo} className='w-20 h-full' alt='logo'></Image></Link>
         </div>
         <div className='navbar-center'>
             <div className="dropdown">
@@ -35,8 +35,8 @@ const Navbar = () => {
         </div>
         <div className='navbar-end'>
             <div className='flex items-center gap-x-5 justify-center h-full'>
-                <Image src={bag} className='w-6 h-full'></Image>
-                <Image src ={search} className="w-5 h-full "></Image>
+                <Image src={bag} style={{objectFit:'contain'}} className='w-6 h-full' alt='bag'></Image>
+                <Image src ={search} style={{objectFit:"contain"}} className="w-5 h-full " alt='search'></Image>
                 <button className='btn block rounded-none border-2 bg-transparent border-orange-600 text-orange-600 hover:bg-transparent hover:border-orange-600  '>appoinment</button>
             </div>
         </div>

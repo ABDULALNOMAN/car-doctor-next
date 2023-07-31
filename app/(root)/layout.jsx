@@ -2,14 +2,14 @@ import Footer from '@/components/Footer/Footer'
 import Navbar from '@/components/Navbar/Navbar'
 import React from 'react'
 
-const layout = ({children}) => {
+const MainLayout = ({children}) => {
   return (
     <div>
-        <Navbar></Navbar>
-       {children}
+      <Navbar></Navbar>
+          {children}
        <Footer></Footer>
     </div>
   )
 }
 
-export default layout
+export default MainLayout

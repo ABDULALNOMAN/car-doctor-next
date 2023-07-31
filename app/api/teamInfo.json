@@ -1,0 +1,84 @@
+[
+    {
+      "index": 0,
+      "busket": [
+        {
+          "image": "/images/team/1.jpg",
+          "title": "Car Engine Plug",
+          "status": "Engine Expert",
+          "social": [
+            "/images/social/facebook.png",
+            "/images/social/twitter.png",
+            "/images/social/linkedin.png",
+            "/images/social/instagram.png"
+          ]
+        },
+        {
+          "image": "/images/team/2.jpg",
+          "title": "Car Engine Plug",
+          "status": "Engine Expert",
+          "social": [
+            "/images/social/facebook.png",
+            "/images/social/twitter.png",
+            "/images/social/linkedin.png",
+            "/images/social/instagram.png"
+          ]
+        },
+        {
+          "image": "/images/team/3.jpg",
+          "title": "Car Engine Plug",
+          "status": "Engine Expert",
+          "social": [
+            "/images/social/facebook.png",
+            "/images/social/twitter.png",
+            "/images/social/linkedin.png",
+            "/images/social/instagram.png"
+          ]
+        }
+      ],
+      "parentId": "slide1",
+      "prev": "#slide2",
+      "next": "#slide2"
+    },
+    {
+      "index": 1,
+      "busket": [
+        {
+          "image": "/images/team/1.jpg",
+          "title": "Car Engine Plug",
+          "status": "Engine Expert",
+          "social": [
+            "/images/social/facebook.png",
+            "/images/social/twitter.png",
+            "/images/social/linkedin.png",
+            "/images/social/instagram.png"
+          ]
+        },
+        {
+          "image": "/images/team/2.jpg",
+          "title": "Car Engine Plug",
+          "status": "Engine Expert",
+          "social": [
+            "/images/social/facebook.png",
+            "/images/social/twitter.png",
+            "/images/social/linkedin.png",
+            "/images/social/instagram.png"
+          ]
+        },
+        {
+          "image": "/images/team/3.jpg",
+          "title": "Car Engine Plug",
+          "status": "Engine Expert",
+          "social": [
+            "/images/social/facebook.png",
+            "/images/social/twitter.png",
+            "/images/social/linkedin.png",
+            "/images/social/instagram.png"
+          ]
+        }
+      ],
+      "parentId": "slide2",
+      "prev": "#slide1",
+      "next": "#slide1"
+    }
+  ]

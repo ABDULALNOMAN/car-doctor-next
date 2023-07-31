@@ -1,0 +1,32 @@
+[
+    {
+      "index": 0,
+      "image": "/icons/group.svg",
+      "status": ""
+    },
+    {
+      "index": 1,
+      "image": "/icons/clock.png",
+      "status": "timely delivery"
+    },
+    {
+      "index": 2,
+      "image": "/icons/person.svg",
+      "status": "24/7 support"
+    },
+    {
+      "index": 3,
+      "image": "/icons/Wrench.svg",
+      "status": "best equipment"
+    },
+    {
+      "index": 4,
+      "image": "/icons/check.svg",
+      "status": "100% guranty"
+    },
+    {
+      "index": 5,
+      "image": "/icons/deliveryt.svg",
+      "status": "timely delivery"
+    }
+  ]
