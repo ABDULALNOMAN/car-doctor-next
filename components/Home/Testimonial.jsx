@@ -33,7 +33,7 @@ const Testimonial = () => {
                 className="h-full w-10/12"
             >
               {testimonials?.map((item)=>(
-                <SwiperSlide className='h-full shadow-lg shadow-slate-300'>
+                <SwiperSlide className='h-full shadow-inner shadow-slate-500'>
                     <div className='p-8 flex flex-col justify-start items-start gap-y-5 h-full'>
                       <div className='flex justify-between items-center gap-x-8 w-10/12'>
                           <div className='flex justify-start items-center gap-x-4'>

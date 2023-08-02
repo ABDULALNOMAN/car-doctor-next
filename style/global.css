@@ -9,6 +9,7 @@
   margin-inline: auto;
   background: #ffffff;
   color: #000000;
+  text-transform: capitalize;
 }
 
 @layer components {
@@ -41,5 +42,7 @@
   background-size: cover;
   background-position: left;
 }
-
+.clip_path{
+  clip-path: polygon(0 100%, 0 0, 100% 0, 100% 100%, 70% 100%, 65% 85%, 35% 85%, 30% 100%);
+}
 
